@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Teliki_Ergasia_2</string>
+    <string name="story_title">Story Title</string>
+    <string name="author">Author:</string>
+    <string name="speaker">🔊</string>
+    <string name="start">Start</string>
+    <string name="unipi_audio_stories_3">Unipi Audio Stories</string>
+    <string name="unipi_audio_stories">Unipi Audio Stories</string>
+    <string name="unipi_audio_stories_2">Unipi Audio Stories</string>
+    <string name="unipi_audio_stories_intro">Welcome to Unipi Audio Stories!!! Here you can find a wide variety of free children\'s stories to listen to making reading books a fun experience!!! By pressing the button below you will be taken to the stories available in our application !!! Happy listening!!!</string>
+    <string name="view_statistics">View Statistics</string>
+    <string name="view_statistics_header">View Statistics</string>
+    <string name="total_plays">total plays</string>
+    <string name="favorite_stories">Favorite Stories</string>
+    <string name="total_plays_text">Total Plays:</string>
+    <string name="title">Title:</string>
+    <string name="total_plays_statistics">Total Plays</string>
+    <string name="choose_language">Choose Language</string>
+    <string name="story_1">Story 1</string>
+    <string name="story_3">Story 3</string>
+    <string name="story_4">Story 4</string>
+    <string name="story_5">Story 5</string>
+    <string name="story_2">Story 2</string>
+
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Ελληνικά</item>
+        <item>Deutsch</item>
+    </string-array>
+</resources>
